@@ -1,0 +1,12 @@
+C:\Users\ngocn\source\repos\QLXE\DAL\bin\Debug\DAL.dll
+C:\Users\ngocn\source\repos\QLXE\DAL\bin\Debug\DAL.pdb
+C:\Users\ngocn\source\repos\QLXE\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ngocn\source\repos\QLXE\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ngocn\source\repos\QLXE\DAL\obj\Debug\DAL.dll
+C:\Users\ngocn\source\repos\QLXE\DAL\obj\Debug\DAL.pdb
+D:\QLXE\DAL\bin\Debug\DAL.dll
+D:\QLXE\DAL\bin\Debug\DAL.pdb
+D:\QLXE\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\QLXE\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\QLXE\DAL\obj\Debug\DAL.dll
+D:\QLXE\DAL\obj\Debug\DAL.pdb
